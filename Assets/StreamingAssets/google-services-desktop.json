@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049647707893",
+    "project_id": "fivelevels",
+    "storage_bucket": "fivelevels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049647707893:android:95724e8ddd2a17510337bc",
+        "android_client_info": {
+          "package_name": "com.AleksandrKryzhinskiy.FiveLevels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKGdUVoOFt6dZntb27dckERwKdkQ1sVMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

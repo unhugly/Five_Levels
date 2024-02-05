@@ -23,3 +23,8 @@
 
 # Thumbnails
 *.thumb
+
+user.keystore
+
+google-services.json
+google-services.json.meta
