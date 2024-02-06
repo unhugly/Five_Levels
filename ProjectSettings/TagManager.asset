@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MUSIC_VOLUME_SLIDER
+  - MUSIC_VOLUME_TEXT
+  - MUSIC_CREATED
   layers:
   - Default
   - TransparentFX

@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1049647707893",
+    "firebase_url": "https://fivelevels-default-rtdb.firebaseio.com",
     "project_id": "fivelevels",
     "storage_bucket": "fivelevels.appspot.com"
   },
